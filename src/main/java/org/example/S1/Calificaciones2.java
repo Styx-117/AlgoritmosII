@@ -1,4 +1,4 @@
-package org.example;
+package org.example.S1;
 import java.util.Scanner;
 
 public class Calificaciones2 {
