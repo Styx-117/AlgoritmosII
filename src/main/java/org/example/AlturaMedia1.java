@@ -13,6 +13,7 @@ public class AlturaMedia1 {
             N = sc.nextInt();
         } while (N <= 0);
 
+
         double[] alturas = new double[N];
         double suma = 0;
 
